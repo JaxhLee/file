@@ -1,0 +1,3 @@
+payload:
+  - '+.cloudfront.net'
+  - '+.amazon.com'

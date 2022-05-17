@@ -1,0 +1,4 @@
+payload:
+  - '+.2checkout.com'
+  - '+.paypalobjects.com'
+  - '+.paypal.com'
